@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Alcedo_atthis.jpg</file>
+        <file>image/Deepin15_wallpaper_003.jpg</file>
+        <file>image/Deepin15_wallpaper_013.png</file>
+        <file>image/title.png</file>
+        <file>image/logo.png</file>
+        <file>image/U.png</file>
+        <file>image/au.png</file>
+        <file>image/N.png</file>
+        <file>image/V.png</file>
+        <file>image/welcome_register.png</file>
+        <file>image/registerBACKGROU.png</file>
+        <file>image/register.png</file>
+        <file>image/cancel.png</file>
+        <file>image/login.png</file>
+        <file>icon.rc</file>
+        <file>image/w.ico</file>
+    </qresource>
+</RCC>
